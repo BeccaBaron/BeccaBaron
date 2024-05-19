@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Rebecca Baron. 
-- 👀 I’m interested in public health, women's health & podcasting! I am currently working on obtaining my MPH in Global Health Systems.
-- 🌱 I’m currently learning R
+- 👀 I’m interested in public health, women's health & podcasting! 
+- 🌱 I’m currently working on developing e-health apps to improve maternal health outcomes.
 - 💞️ I’m looking to collaborate on health management systems
 - 📫 How to reach me https://www.linkedin.com/in/rebecca-baron/
 
